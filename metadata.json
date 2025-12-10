@@ -1,0 +1,5 @@
+{
+  "name": "CV Master - AI Resume Builder",
+  "description": "An interactive AI-powered chat application that guides users through a structured interview to generate professional CVs in Macedonian using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
